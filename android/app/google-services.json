@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993296145746",
+    "project_id": "track-exp-12994",
+    "storage_bucket": "track-exp-12994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993296145746:android:fa210cfe3352f0a3b5ae8b",
+        "android_client_info": {
+          "package_name": "com.example.track_exp_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993296145746-shnllnuh7mruuruie19snmvikvs7legd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7p4boEE2DWPRnUY9voZA2MRCqJ_jLCJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993296145746-shnllnuh7mruuruie19snmvikvs7legd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
